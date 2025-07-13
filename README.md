@@ -1,4 +1,4 @@
-#Online Quiz Platform Backend#
+**Online Quiz Platform Backend**
 This project provides a robust and scalable backend for an online quiz application, built using Spring Boot. It offers comprehensive functionalities for managing a question bank, creating dynamic quizzes, delivering questions securely, and calculating quiz results.
 
 🚀 Features
@@ -172,5 +172,3 @@ Example: POST http://localhost:8080/quiz/submit/1
 🤝 Contributing
 Feel free to fork the repository, create a new branch, and submit pull requests. Any contributions are welcome!
 
-📄 License
-This project is open source and available under the MIT License.
